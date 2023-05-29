@@ -1,6 +1,6 @@
 # firebase-get-user-id-token
 
-A very simple script to get the ID token using email and password sign-in. Useful for testing serverside API endpoints.
+A very simple script to get the ID token using email and password sign-in. Useful for quickly testing serverside API endpoints in Postman.
 
 1. Make a .env and enter your firebase project configuration variables
 
